@@ -17,3 +17,7 @@ Rules for every weekly post, in every league.
 
 ## Data
 `tools/digest.mjs` (one week per league) and `tools/draft.mjs` (the draft) turn the raw data into notes for writing posts. Run them in a folder holding the Awaker recap for each league and week (`recap-<league>-<week>.json`), plus Sleeper's league, users, rosters, matchups (`m-<league>-<week>.json`), draft and picks JSON, and a slim player list (`p.json`). The digest script only has weeks 1 and 2 built in, so bump that list for each new week.
+
+## Scripsy Tipsy running bit
+- The owner requested alternating treatment of sp1cycurry: roast heavily in Week 3, give exaggerated praise in Week 4, then alternate harsh and flattering coverage in later issues. This is an editorial preference for future issues, not a publishing schedule.
+- The owner confirmed that sp1cycurry prefers favorable Gazette coverage. That preference can be a running joke alongside his fantasy decisions. Keep the teasing playful, avoid real-life personal attacks, and report good results accurately even during roast weeks.
