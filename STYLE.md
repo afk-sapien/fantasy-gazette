@@ -10,6 +10,12 @@ Rules for every weekly post, in every league.
 - Use the league data for scores, starters, benches, moves and draft picks. Owner-provided team-name background below is also an approved source for league jokes. Don't give reasons for a zero (injury etc.) unless the data says so.
 - Roasts are about fantasy decisions only, never about people's real lives. The author's team (SteelerIDKher) gets no favors.
 
+## Headlines
+- Give each issue a headline about the league's week as a whole: a shared lineup mistake, a standings shakeup, a scoring trend, or a group of NFL players underperforming. A headline may focus on an NFL player when that performance captures the broader story.
+- Do not center the main headline on one fantasy manager, team name, or individual matchup. Keep those specific stories in the subheading and article.
+- Prefer short, funny editorial headlines grounded in that week's results. "The Bench Was Better" is the model. Avoid generic recaps and claims broader than the data supports.
+- Keep the article heading, browser title, social preview title, and league metadata in sync, then rebuild the homepage.
+
 ## Pieces
 - 2–4 GIPHY GIFs per post, never reused anywhere on the site. Check each link, and look at a frame, because GIPHY returns a placeholder image for IDs that don't exist.
 - 4–6 awards, the standings, and a one-line look ahead.
