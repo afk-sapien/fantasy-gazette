@@ -24,7 +24,8 @@ Rules for every weekly post, in every league.
 - Keep the article heading, browser title, social preview title, and league metadata in sync, then rebuild the homepage.
 
 ## Pieces
-- Every matchup must have exactly 1 GIPHY GIF in its own recap section, with the reaction and caption tied to that matchup's joke. The number of GIFs follows the number of matchups: 5 in each ten-team league and 6 in the twelve-team league. Never reuse a GIF anywhere on the site. Check each link and inspect a frame, because GIPHY returns a placeholder image for IDs that don't exist. Verify the count per matchup before publishing.
+- Add 1 opening GIPHY GIF beneath the introduction and before the matchups. Its reaction and caption should fit the headline and the league-wide theme.
+- Every matchup must also have exactly 1 GIPHY GIF in its own recap section, tied to that matchup's joke. Including the opening GIF, this makes 6 GIFs for each ten-team league and 7 for the twelve-team league. Never reuse a GIF anywhere on the site. Check each link and inspect a frame, because GIPHY returns a placeholder image for IDs that don't exist. Verify both the opening GIF and the count per matchup before publishing.
 - 4–6 awards, the standings, and a one-line look ahead.
 - Posts go at `posts/<league>/week-N.html`, built from `posts/_template.html`. Add the post to `posts/<league>/meta.json` and fix the previous post's "Next" link. Then run `node build-index.mjs`.
 
