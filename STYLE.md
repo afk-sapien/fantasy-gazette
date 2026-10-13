@@ -8,7 +8,14 @@ Rules for every weekly post, in every league.
 - The draft is part of the story. Bring back reaches, busts and late-round steals as the season goes on, like the Caleb Williams pick at 1.09 in Scripsy Tipsy. Week 1 ran "Draft Day, Revisited" and week 2 ran a "Draft Report Card".
 - Each post is about 900–1100 words of prose, not counting awards and captions. Funny, not technical, and no jargon.
 - Use the league data for scores, starters, benches, moves and draft picks. Owner-provided team-name background below is also an approved source for league jokes. Don't give reasons for a zero (injury etc.) unless the data says so.
-- Roasts are about fantasy decisions only, never about people's real lives. The author's team (SteelerIDKher) gets no favors.
+- Roasts are about fantasy decisions only, never about people's real lives. The user's teams get the same scrutiny as every other team.
+
+## Narrator
+- The Gazette is an independent sports publication covering the leagues. It is not written in the user's voice and does not participate in any league.
+- Refer to every manager and fantasy team in the third person. Never call the user's teams "the editor," "the author," "my team," or "our team," and never describe their decisions, wins or losses as the narrator's own.
+- The user's teams are SteelerIDKher in Scripsy Tipsy and Game of Throws, and Team Osteoporosis (formerly Team Taylor) in The Strand Zone. Use the name appropriate to the week being covered.
+- Editorial "we" may refer to the Gazette's coverage, jokes or past predictions. It must never imply that the publication owns a roster, drafts players, sets a lineup or has a personal relationship with a manager.
+- Keep the sp1cycurry coverage bit, but do not portray games against the user's team as games against the newspaper. Apply this voice consistently in articles, captions, awards, previews and metadata.
 
 ## Headlines
 - Give each issue a headline about the league's week as a whole: a shared lineup mistake, a standings shakeup, a scoring trend, or a group of NFL players underperforming. A headline may focus on an NFL player when that performance captures the broader story.
@@ -32,8 +39,8 @@ Rules for every weekly post, in every league.
 
 Confirmed by the league owner. Preserve the exact Sleeper spellings in scorelines and standings.
 
-- **SteelerIDKher** is the author's team. The name uses the joke of hearing a word ending in "her" and replying "I don't know her." The Steelers reference can coexist with that wordplay.
-- **Arianajonas** is the author's girlfriend's team. She loves the Jonas Brothers, which explains the name. Band and fandom jokes are welcome, with the focus on her fantasy team.
+- **SteelerIDKher** is the user's team, not the narrator's team. The name uses the joke of hearing a word ending in "her" and replying "I don't know her." The Steelers reference can coexist with that wordplay.
+- **Arianajonas** is the user's girlfriend's team, not the narrator's girlfriend's team. She loves the Jonas Brothers, which explains the name. Band and fandom jokes are welcome, with the focus on her fantasy team.
 - **InelvatableBeerMile** belongs to Elva. The name combines Elva with "inevitable beer mile." The league's loser has to do a beer mile, so this is a joke about the last-place consequence. Do not present the name as a typo or assume Elva has already lost.
 - **gwaman** is pronounced like "G Woman" and comes from "group woman." She was the only woman on a camping trip with a group of men, and the nickname stuck. This explains the name, not an invitation to gender-based roasts.
 - **underscore11** was a bot-controlled slot in Week 1. The human manager joined after Week 1 and inherited that roster. Do not credit or blame the human manager for the bot's draft or Week 1 lineup. The owner described it as the best team overall, and the Week 3 data shows it leading total points and the standings. Verify those claims afresh in later issues.
